@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @stxdy
 - 👀 I’m interested in Web Development and technology.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and more
-- 💞️ I’m looking to collaborate on learning and becoming a web/software developer.
 
 
 <!---
